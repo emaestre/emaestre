@@ -1,7 +1,7 @@
 # Hi there! 😄<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> My name is Eleazar
 ## Welcome to my GitHub profile 👾
 
-I'm Full-Stack Software Engineer from Venezuela 🇻🇪. I've been working for more than 3 years in the industry and I'm very happy to work in this wonderful branch of computer science 💻, always looking to better everyday.
+I'm Full-Stack Software Engineer from Venezuela 🇻🇪. I've been working for more than 3 years in the industry and I'm very happy to work in this wonderful branch of computer science 💻, always looking to be better everyday.
 
 ``` js
 const myMotto = async () => {
