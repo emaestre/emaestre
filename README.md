@@ -5,8 +5,8 @@ I'm Full-Stack Software Engineer from Venezuela 🇻🇪. I've been working for 
 
 ``` js
 const myMotto = async () => {
-    await thinkTwice();
-    return codeOnce();
+    const bigIdea = await thinkTwice();
+    return codeOnce(bigIdea);
 }
 ```
 
