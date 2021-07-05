@@ -27,8 +27,8 @@ const myMotto = async () => {
 
 ### My stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=emaestre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=emaestre&theme=tokyonight&layout=compact&langs_count=10)
+![Github stats](https://github-readme-stats-delta-sable.vercel.app/api?username=emaestre&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Top Langs](https://github-readme-stats-delta-sable.vercel.app/api/top-langs?username=emaestre&count_private=true&theme=tokyonight&layout=compact&langs_count=10)
 
 📫 Do you want to contact me?
 
