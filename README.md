@@ -25,10 +25,6 @@ const myMotto = async () => {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### My stats
-
-![Github stats](https://github-readme-stats-delta-sable.vercel.app/api?username=emaestre&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats-delta-sable.vercel.app/api/top-langs?username=emaestre&count_private=true&theme=tokyonight&layout=compact&langs_count=10)
 
 📫 Do you want to contact me?
 
