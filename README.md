@@ -3,6 +3,8 @@
 
 I'm Full-Stack Software Engineer from Venezuela 🇻🇪. I've been working for more than 4 years in the industry and I'm very happy to work in this wonderful branch of computer science 💻 always looking to be better everyday.
 
+Currently working in the best software tool for the restoration industry: <a href="https://tryknowhow.com/"><code><img height="30" src="https://user-images.githubusercontent.com/7490699/116176288-2985ae80-a6cf-11eb-87b2-11507cee8211.png"></code></a>
+
 ``` js
 const myMotto = async () => {
     const bigIdea = await thinkTwice();
