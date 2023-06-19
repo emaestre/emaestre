@@ -1,7 +1,7 @@
 # Hi there! 😄<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> My name is Eleazar
 ## Welcome to my GitHub profile 👾
 
-I'm Full-Stack Software Engineer from Venezuela 🇻🇪. I've been working for more than 4 years in the industry and I'm very happy to work in this wonderful branch of computer science 💻 always looking to be better everyday.
+I'm Full-Stack Software Engineer from Venezuela 🇻🇪. I've been working in the industry for more than 5 years and I'm very happy to work in this wonderful branch of computer science 💻 always looking to improve every day.
 
 Currently working in the best software tool for the restoration industry: <a href="https://tryknowhow.com/"><code><img height="30" src="https://user-images.githubusercontent.com/7490699/116176288-2985ae80-a6cf-11eb-87b2-11507cee8211.png"></code></a>
 
